@@ -1,0 +1,141 @@
+{
+  "Selección Julio 2026": {
+    "parent": "none",
+    "resource": "Selección Julio 2026.glb",
+    "template": "T_pannels_school_B.glb",
+    "Amparo Fletes 01 WEB": {
+      "resource": "/Selección Julio 2026/Amparo Fletes 01 WEB.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.00",
+      "location": "[8.990,15.100,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #0 Amparo Fletes 01 WEB"
+    },
+    "Carmen Medina 02 WEB": {
+      "resource": "/Selección Julio 2026/Carmen Medina 02 WEB.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "120.00",
+      "location": "[8.990,8.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #1 Carmen Medina 02 WEB"
+    },
+    "David Sánchez 01 WEB": {
+      "resource": "/Selección Julio 2026/David Sánchez 01 WEB.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "92.70",
+      "location": "[8.990,0.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #2 David Sánchez 01 WEB"
+    },
+    "Eugenia Malea 03 WEB": {
+      "resource": "/Selección Julio 2026/Eugenia Malea 03 WEB.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "97.80",
+      "location": "[8.990,-8.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #3 Eugenia Malea 03 WEB"
+    },
+    "Fernando Gracia 03 WEB": {
+      "resource": "/Selección Julio 2026/Fernando Gracia 03 WEB.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.00",
+      "location": "[8.990,-15.100,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #4 Fernando Gracia 03 WEB"
+    },
+    "Francisco Climent 03 WEB": {
+      "resource": "/Selección Julio 2026/Francisco Climent 03 WEB.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "98.10",
+      "location": "[-8.990,12.750,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #5 Francisco Climent 03 WEB"
+    },
+    "Jesús Flores 03 WEB": {
+      "resource": "/Selección Julio 2026/Jesús Flores 03 WEB.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.00",
+      "location": "[-8.990,4.250,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #6 Jesús Flores 03 WEB"
+    },
+    "Jose A Lumbreras 02 WEB": {
+      "resource": "/Selección Julio 2026/Jose A Lumbreras 02 WEB.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "90.00",
+      "location": "[-8.990,-4.250,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #7 Jose A Lumbreras 02 WEB"
+    },
+    "Lola Ruíz 01 WEB": {
+      "resource": "/Selección Julio 2026/Lola Ruíz 01 WEB.jpg",
+      "resource_type": "image",
+      "width": "90.00",
+      "height": "120.00",
+      "location": "[-8.990,-12.750,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #8 Lola Ruíz 01 WEB"
+    },
+    "Miguel Barranco 01 WEB": {
+      "resource": "/Selección Julio 2026/Miguel Barranco 01 WEB.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.00",
+      "location": "[5.200,16.990,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #9 Miguel Barranco 01 WEB"
+    },
+    "Nacho Rousaud 03 WEB": {
+      "resource": "/Selección Julio 2026/Nacho Rousaud 03 WEB.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.00",
+      "location": "[-5.200,16.990,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #10 Nacho Rousaud 03 WEB"
+    },
+    "Pilar Rudilla 03 WEB": {
+      "resource": "/Selección Julio 2026/Pilar Rudilla 03 WEB.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "120.00",
+      "location": "[4.300,-16.990,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #11 Pilar Rudilla 03 WEB"
+    },
+    "Rafa Blanca 01 WEB": {
+      "resource": "/Selección Julio 2026/Rafa Blanca 01 WEB.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.00",
+      "location": "[-2.900,-16.990,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #12 Rafa Blanca 01 WEB"
+    },
+    "Vicente Genís 03 WEB": {
+      "resource": "/Selección Julio 2026/Vicente Genís 03 WEB.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "90.00",
+      "location": "[0.000,-2.340,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #13 Vicente Genís 03 WEB"
+    }
+  },
+  "Technical": {
+    "ambientLight": 0.5,
+    "pointLight": 50,
+    "style": "school",
+    "show_plaques": true,
+    "show_frames": true,
+    "skip_hub": true
+  }
+}
